@@ -1,0 +1,17 @@
+.A {
+  color: rgb(221, 160, 46);
+  width: 1000px;
+  height: 100px;
+  margin-bottom: 80px;
+}
+.B {
+  width: 1000px;
+  height: 100px;
+  margin-bottom: -10px;
+}
+.C {
+  width: 1000px;
+  height: 110px;
+  background-image: url(https://images.freeimages.com/images/large-previews/9b6/among-giants-1375605.jpg);
+  background-size: cover;
+}

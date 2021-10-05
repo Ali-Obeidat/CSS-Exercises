@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(240, 235, 192);
+}
+div {
+  width: 70%;
+}
+.a {
+  border: 1px solid black;
+  padding: 7px;
+  background-color: white;
+}
+.b {
+  border: 2px dashed black;
+  padding: 7px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.num2 {
+  border: 2px dashed rgb(255, 0, 0);
+}
+.c {
+  border: 1px solid black;
+  padding: 7px;
+  background-color: white;
+  color: rgb(103, 26, 175);
+  margin-top: 10px;
+}
+mark.-a {
+  background-color: rgba(255, 115, 0, 0.562);
+  font-weight: bold;
+}
+mark.-b {
+  font-weight: bold;
+}

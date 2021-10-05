@@ -1,0 +1,13 @@
+table {
+  border-spacing: 8px;
+}
+td {
+  border: 1px solid;
+  margin: 50px;
+  border-radius: 5px;
+  border-spacing: 50px;
+  box-shadow: 2px 2px grey;
+  width: 95px;
+  height: 29px;
+  text-align: center;
+}
